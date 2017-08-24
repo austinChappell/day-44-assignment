@@ -1,0 +1,29 @@
+.App {
+  margin: 10px;
+}
+
+button {
+  margin: 20px;
+}
+
+.card-column{
+  /*margin: 5px;*/
+  padding: 15px;
+}
+
+.card {
+  padding: 20px;
+}
+
+.form{
+  text-align: center;
+}
+
+.card-block {
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.row {
+  padding: 5px;
+}
